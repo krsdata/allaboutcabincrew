@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 8 degree Coming Soon Page\n"
+"POT-Creation-Date: 2016-01-20 12:49+0545\n"
+"PO-Revision-Date: 2016-01-20 12:50+0545\n"
+"Last-Translator: \n"
+"Language-Team: 8 Degree Themes <support@8degreethemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../8degree-coming-soon-page.php:183 ../8degree-coming-soon-page.php:298
+msgid "Coming Soon"
+msgstr ""
+
+#: ../8degree-coming-soon-page.php:184 ../8degree-coming-soon-page.php:299
+msgid "We will be coming soon with the site"
+msgstr ""
+
+#: ../8degree-coming-soon-page.php:191 ../8degree-coming-soon-page.php:306
+msgid "Subscribe Us"
+msgstr ""
+
+#: ../8degree-coming-soon-page.php:192 ../8degree-coming-soon-page.php:307
+#: ../inc/backend/index.php:273 ../inc/backend/index.php:287
+msgid "Subscribe"
+msgstr ""
+
+#: ../8degree-coming-soon-page.php:193 ../8degree-coming-soon-page.php:308
+#: ../inc/backend/index.php:377 ../inc/backend/settings.php:126
+msgid "Email"
+msgstr ""
+
+#: ../8degree-coming-soon-page.php:196 ../8degree-coming-soon-page.php:280
+#: ../8degree-coming-soon-page.php:311
+msgid "Thank you! We will be back with the quote"
+msgstr ""
+
+#: ../8degree-coming-soon-page.php:396
+msgid "Default Settings Restored Successfully."
+msgstr ""
+
+#: ../inc/backend/index.php:41
+msgid "Site Under Maintenance"
+msgstr ""
+
+#: ../inc/backend/index.php:177
+msgid "You have already subscribed"
+msgstr ""
+
+#: ../inc/backend/index.php:212 ../inc/backend/index.php:226
+msgid "Unable to subscribe"
+msgstr ""
+
+#: ../inc/backend/index.php:330
+msgid "Contact Us"
+msgstr ""
+
+#: ../inc/backend/index.php:375
+msgid "Name"
+msgstr ""
+
+#: ../inc/backend/index.php:379
+msgid "Message"
+msgstr ""
+
+#: ../inc/backend/index.php:383
+msgid "Send"
+msgstr ""
+
+#: ../inc/backend/save-settings.php:225
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: ../inc/backend/settings.php:8
+msgid "8 Degree Coming Soon Page "
+msgstr ""
+
+#: ../inc/backend/settings.php:10
+msgid "Follow us for new updates"
+msgstr ""
+
+#: ../inc/backend/settings.php:29 ../inc/backend/boards/general-settings.php:2
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/backend/settings.php:30
+msgid "Design"
+msgstr ""
+
+#: ../inc/backend/settings.php:31
+msgid "Subscribers"
+msgstr ""
+
+#: ../inc/backend/settings.php:32
+msgid "Extras"
+msgstr ""
+
+#: ../inc/backend/settings.php:33
+msgid "How to use"
+msgstr ""
+
+#: ../inc/backend/settings.php:34
+msgid "About"
+msgstr ""
+
+#: ../inc/backend/settings.php:82
+msgid "Save Options"
+msgstr ""
+
+#: ../inc/backend/settings.php:84
+msgid "Are you sure you want to restore default settings?"
+msgstr ""
+
+#: ../inc/backend/settings.php:114
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: ../inc/backend/settings.php:123
+msgid "Select All"
+msgstr ""
+
+#: ../inc/backend/settings.php:129
+msgid "Subscribtion Date"
+msgstr ""
+
+#: ../inc/backend/settings.php:163
+msgid "No Subscribers Found."
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:3
+msgid "Design Settings"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:6
+msgid "Text Options"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:8
+msgid "Header Text Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:12
+msgid "Description Text Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:20
+msgid "Background Options"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:22
+msgid "Select Background Type"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:24
+msgid "Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:25
+msgid "Image"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:28
+#: ../inc/backend/boards/design-settings.php:156
+#: ../inc/backend/boards/design-settings.php:181
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:33
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:42
+msgid "Pre Available Image"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:60
+#: ../inc/backend/boards/design-settings.php:63
+#: ../inc/backend/boards/design-settings.php:66
+#: ../inc/backend/boards/design-settings.php:69
+#: ../inc/backend/boards/design-settings.php:72
+#: ../inc/backend/boards/design-settings.php:75
+#: ../inc/backend/boards/design-settings.php:78
+#: ../inc/backend/boards/design-settings.php:81
+#: ../inc/backend/boards/design-settings.php:84
+#: ../inc/backend/boards/design-settings.php:87
+#: ../inc/backend/boards/design-settings.php:90
+#: ../inc/backend/boards/design-settings.php:93
+msgid "Preview:"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:100
+msgid "Choose Image"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:102
+msgid "Enter a URL or upload an image"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:104
+#: ../inc/backend/boards/extra-settings.php:57
+msgid "Current"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:112
+msgid "Timer Layouts"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:115
+#: ../inc/backend/boards/design-settings.php:136
+msgid "Layout 1"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:123
+#: ../inc/backend/boards/design-settings.php:144
+msgid "Layout 2"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:134
+msgid "Subscribe Form Layouts"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:154
+msgid "Contact Us Button Options"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:161
+#: ../inc/backend/boards/design-settings.php:185
+msgid "Font Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:167
+#: ../inc/backend/boards/design-settings.php:189
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:172
+#: ../inc/backend/boards/design-settings.php:193
+msgid "Hover Font Color"
+msgstr ""
+
+#: ../inc/backend/boards/design-settings.php:179
+msgid "Social Icon Options"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:4
+msgid "Extra Setting"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:7
+msgid "Disable Coming Soon Mode For: "
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:31
+msgid "Google Analytics Code: "
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:37
+msgid "Hide From Search Engines:"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:42
+msgid "Search Engine Meta-Tags:"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:44
+msgid "Meta Tag Name"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:48
+msgid "Meta Tag Content"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:54
+msgid "Choose Favicon"
+msgstr ""
+
+#: ../inc/backend/boards/extra-settings.php:55
+msgid "Enter a URL or upload favicon"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:12
+msgid "Disable"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:13
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:21
+#: ../inc/backend/boards/general-settings.php:31
+#: ../inc/backend/boards/general-settings.php:47
+#: ../inc/backend/boards/general-settings.php:77
+#: ../inc/backend/boards/general-settings.php:139
+#: ../inc/backend/boards/general-settings.php:155
+msgid "Show"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:23
+msgid "Header Text"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:30
+msgid "Description Section"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:33
+msgid "Description"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:46
+msgid "Subscriber Section"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:50
+msgid "Confirm Email Address"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:56
+msgid "Heading Text"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:60
+msgid "Form Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:64
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:68
+msgid "Thank you note"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:76
+msgid "Social Network Section"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:83
+msgid "facebook"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:92
+msgid "twitter"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:101
+msgid "pinterest"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:109
+msgid "linked in"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:117
+msgid "google plus"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:125
+msgid "tumblr"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:140
+msgid "URL"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:154
+msgid "Contact Us Section"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:158
+msgid "Email address"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:161
+msgid "Name Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:164
+msgid "Email Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:167
+msgid "Message Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:170
+msgid "Submit Button Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:176
+msgid "Countdown Timer Section"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:177
+msgid "Enable Countdown"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:183
+msgid "Countdown Expiry Date:"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:184
+msgid "Hour Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:184
+msgid "Hour"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:186
+msgid "Minute Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:186
+msgid "Min"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:188
+msgid "Second Label"
+msgstr ""
+
+#: ../inc/backend/boards/general-settings.php:188
+msgid "Sec"
+msgstr ""

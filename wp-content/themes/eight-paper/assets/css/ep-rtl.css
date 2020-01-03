@@ -1,0 +1,170 @@
+.header-beside section.widget_media_image img,
+.ep-header-search-wrapper {
+	float: left;
+}
+.main-navigation li {
+	float: right;
+}
+.main-navigation ul {
+	padding-right: 0;
+}
+@media screen and (min-width: 37.5em) {
+	.main-navigation ul {
+		float: right;
+	}
+}
+.main-navigation ul ul {
+	float: right;
+	right: -999em;
+	left: unset;
+}
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+	right: auto;
+	left: unset;
+}
+.ep-header-search-wrapper .search-main {
+	padding: 0;
+}
+.post-cats-list span.category-button {
+	float: right;
+	padding-left: 10px;
+	padding-right: 0;
+}
+.slider-featured-posts .wp-img-title-wrap .ep-post-thumb {
+	margin-right: 0;
+	margin-left: 2%;
+}
+.slider-posts {
+	float: right;
+}
+.slider-featured-posts {
+	padding-right: 30px;
+	padding-left: 0;
+	border-right: 1px solid #e2e2e2;
+	border-left: none;
+	float: left;
+}
+.ep-block-wrapper.block-posts .ep-block-title .ep-title {
+	padding-left: 20px;
+	padding-right: 0;
+}
+.widget-title span {
+	padding-left: 10px;
+	padding-right: 0;
+}
+.widget-title:after {
+    -webkit-transform: translateX(-10px);
+    -moz-transform: translateX(-10px);
+    -ms-transform: translateX(-10px);
+    -o-transform: translateX(-10px);
+    transform: translateX(-10px);
+}
+.block-posts.layout1 .ep-primary-block-wrap {
+	float: right;
+}
+.block-posts.layout1 .ep-secondary-block-wrap {
+	float: left;
+	padding: 0 30px 0 0;
+}
+.ep-recent-posts-wrapper.layout1 ul li .ep-single-post .ep-post-thumb, .ep-recent-posts-wrapper.layout2 ul li .ep-single-post .ep-post-thumb {
+	float: right;
+}
+.ep-recent-posts-wrapper.layout1 ul li .ep-single-post .ep-post-content, .ep-recent-posts-wrapper.layout2 ul li .ep-single-post .ep-post-content {
+	padding-right: 15px;
+	padding-left: 0;
+}
+.block-posts.layout2 .ep-secondary-block-wrap .ep-single-post {
+    float: right;
+    margin-left: 2.75%;
+    margin-right: 0;
+}
+.block-posts.layout2 .ep-secondary-block-wrap .ep-single-post:last-child {
+    margin-left: 0;
+}
+.block-posts.layout3 .ep-single-post {
+    float: right;
+    margin-left: 5%;
+    margin-right: 0;
+}
+.block-posts.layout3 .ep-single-post:nth-child(2n) {
+    margin-left: 0;
+}
+.block-posts.layout4 .ep-post-content {
+    padding-right: 30px;
+    padding-left: 0;
+}
+.featured-posts.layout2 .ep-feat-cat-wrap .ep-single-post-wrap .ep-post-content {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.featured-posts.layout2 .ep-single-post-wrap .ep-post-title a:after {
+	left: unset;
+	right: -14px;
+}
+.site-footer .widget {
+    border-right: 1px solid #575757;
+    border-left: none;
+    padding-right: 3%;
+    padding-left: 0;
+}
+.site-footer .widget:nth-child(3n+1) {
+    border-right: unset;
+    padding-right: 0;
+}
+.top-footer-wrap section:nth-child(3n) {
+    margin-left: 0;
+}
+.top-footer-wrap section {
+    float: right;
+    margin-left: 3%;
+    margin-right: 0;
+}
+.featured-posts.layout2 .ep-feat-cat-wrap {
+    float: right;
+    margin-left: 2%;
+    margin-right: 0;
+}
+.featured-posts.layout2 .ep-feat-cat-wrap:nth-child(4n) {
+    margin-left: 0;
+}
+.widget.eight_paper_social_icons .widget-social-icons li {
+    float: right;
+}
+#primary .entry-content blockquote {
+    padding-right: 10px;
+    padding-left: 0;
+}
+#primary .entry-content blockquote:before {
+    right: -15px;
+    left: unset;
+}
+#primary .entry-content blockquote:after {
+    right: 10px;
+    left: unset;
+    -webkit-transform: rotateY(180deg);
+       -moz-transform: rotateY(180deg);
+        -ms-transform: rotateY(180deg);
+         -o-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+}
+.meta-comment-wrap .entry-footer {
+	float: left;
+}
+.meta-comment-wrap .entry-meta {
+	float: right;
+}
+.search .site-main article {
+	margin-right: 0;
+	margin-left: 2%;
+}
+.search .site-main article:nth-child(3n) {
+    margin-left: 0;
+}
+.middle-content-sidebar .homepage-middle-sidebar,
+.bottom-content-sidebar .homepage-bottom-sidebar {
+	float: left;
+}
+.middle-content-sidebar .homepage-middle-content,
+.bottom-content-sidebar .homepage-bottom-content {
+	float: right;
+}
